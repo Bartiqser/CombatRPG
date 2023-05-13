@@ -1,0 +1,4 @@
+1 2
+Andrzej 10 80 0 Sword 30 15 30
+John 10 100 0 Bow 10 5 30
+Matt 10 20 0 Sword 10 5 30
